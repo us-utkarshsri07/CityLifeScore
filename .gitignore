@@ -1,0 +1,20 @@
+# Data files
+data/raw/
+data/processed/
+data/external/
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
+
+# Environment
+venv/
+.env/
+env/
+
+# IDE files
+.vscode/
+.idea/
